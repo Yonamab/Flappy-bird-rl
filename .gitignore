@@ -1,4 +1,4 @@
-# Virtual environment
+# Virtual environments
 venv/
 .venv/
 
@@ -12,16 +12,16 @@ __pycache__/
 *.pth
 *.pt
 
-# But keep the empty models folder on GitHub
+# Keep empty models folder visible on GitHub
 !models/.gitkeep
 
-# Environment variables
+# Environment files
 .env
 
-# VS Code settings
+# Editor settings
 .vscode/
 
-# Operating system files
+# OS files
 .DS_Store
 Thumbs.db
 
